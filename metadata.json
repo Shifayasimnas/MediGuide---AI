@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide AI",
+  "description": "Mobile-friendly AI healthcare information assistant providing general health education, symptom guides, medicine information, emergency awareness, and doctor visit preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
